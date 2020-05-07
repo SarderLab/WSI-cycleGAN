@@ -4,12 +4,10 @@ Based on the Tensorflow implementation for learning an image-to-image translatio
 The method is proposed by [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/) in 
 [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf). 
 
-This code was forked from https://github.com/xhujoy/CycleGAN-tensorflow and modified to work optimally on Whole Slide images WSIs.
+This code was forked from https://github.com/xhujoy/CycleGAN-tensorflow and modified to work optimally on Whole Slide images WSIs by [Brendon Lutnick](https://github.com/brendonlutnick)
 
 You can download the pretrained model from [this url](https://1drv.ms/u/s!AroAdu0uts_gj5tA93GnwyfRpvBIDA)
 and extract the rar file to `./checkpoint/`.
-
-This code was created by [Brendon Lutnick](https://github.com/brendonlutnick)
 
 
 ## Prerequisites
