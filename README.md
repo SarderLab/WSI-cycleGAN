@@ -63,6 +63,8 @@ self.dataset_dirB
 ```
 which should be changed. 
 
+The custom Tensorflow input pipeline used for this network can be downloaded [here](https://github.com/SarderLab/tf-WSI-dataset-utils) 
+
 
 ## Reference
 - The torch implementation of CycleGAN, https://github.com/junyanz/CycleGAN
