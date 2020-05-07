@@ -9,6 +9,8 @@ This code was forked from https://github.com/xhujoy/CycleGAN-tensorflow and modi
 You can download the pretrained model from [this url](https://1drv.ms/u/s!AroAdu0uts_gj5tA93GnwyfRpvBIDA)
 and extract the rar file to `./checkpoint/`.
 
+This code was created by [Brendon Lutnick](https://github.com/brendonlutnick)
+
 
 ## Prerequisites
 - tensorflow r1.1
