@@ -54,9 +54,13 @@ CUDA_VISIBLE_DEVICES=0 python main.py --dataset_dir=/path/to/data/ --phase=test 
 This code takes 2 folders containing WSIs as an input. The code will pull random patches from the slides at runtime and attempt to translate bnetween the two sets. For example you could place H&E WSIs in folder A and PAS WSIs in folder B.
 
 model.py __init__ contains 2 variables 
-'''self.dataset_dirA''' 
+```bash
+self.dataset_dirA
+``` 
 and 
-'''self.dataset_dirB''' 
+```bash
+self.dataset_dirB
+```
 which should be changed. 
 
 
